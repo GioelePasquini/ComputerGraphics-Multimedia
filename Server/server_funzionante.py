@@ -3,7 +3,7 @@
 import flask, logging, ngrok
 
 if __name__ == '__main__':
-    ngrok.set_auth_token("2h5uqCeg949GltwEdN8VJXI2JZu_6EoRANAJJnHon5k6HTC53")  # Replace with your ngrok token
+    ngrok.set_auth_token("token ngrok")  # Replace with your ngrok token
     logging.basicConfig(level=logging.INFO)
     listener = ngrok.werkzeug_develop()
     print(listener.url())
@@ -13,6 +13,7 @@ if __name__ == '__main__':
     @app.route("/")
     def hello():
         return "Hello, World!"
+
 
 
     app.run(debug=True)
