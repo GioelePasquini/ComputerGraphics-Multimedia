@@ -6,8 +6,8 @@
    + "image-to-image", con al suo interno il file image_to_image.py
    + "text-to-image", con al suo intterno il file text_to_image.py
    + Il risultato nella sezione input di kaggle è il seguente:
-
-   <img width="418" alt="Screenshot 2024-06-13 alle 13 03 17" src="https://github.com/GioelePasquini/ComputerGraphics-Multimedia/assets/75083105/ca880a58-252c-488f-89bc-f13fc13db596">
-
+<p align="center">
+   <img width="418" alt="Immagine input" src="https://github.com/GioelePasquini/ComputerGraphics-Multimedia/assets/75083105/ca880a58-252c-488f-89bc-f13fc13db596">
+</p>
 4. Avviare il blocco note eseguendo tutte le celle, quando verrà eseguita l'ultima cella verrà stampato l'Url pubblico per il server da utilizzare nell'applicazione per effettuare le richieste
 
