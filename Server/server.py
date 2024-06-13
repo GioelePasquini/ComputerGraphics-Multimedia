@@ -8,7 +8,8 @@ import zipfile
 
 if __name__ == '__main__':
 
-    ngrok.set_auth_token("2h5uqCeg949GltwEdN8VJXI2JZu_6EoRANAJJnHon5k6HTC53")
+    # Inserisci nella riga sottostante il tuo authtoken di ngrok
+    ngrok.set_auth_token("")
     logging.basicConfig(level=logging.INFO)
     listener = ngrok.werkzeug_develop()
     print(listener.url())
