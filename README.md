@@ -10,4 +10,6 @@
    <img width="418" alt="Immagine input" src="https://github.com/GioelePasquini/ComputerGraphics-Multimedia/assets/75083105/ca880a58-252c-488f-89bc-f13fc13db596">
 </p>
 4. Avviare il blocco note eseguendo tutte le celle, quando verrà eseguita l'ultima cella verrà stampato l'Url pubblico per il server da utilizzare nell'applicazione per effettuare le richieste
+5. Inserire l'Url pubblico in Unity, più precisamente all'interno della scena, nel GameObject SchermoInferiore, nello script ServerRequests, all'interno dell'attributo Server Url.
+
 
