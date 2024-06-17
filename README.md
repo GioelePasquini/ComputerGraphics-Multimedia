@@ -1,5 +1,5 @@
 # Configurazione del server per l'applicazione
-1. Importare il file server-funzionante.ipynb su kaggle e selezionare come accelleratore GPU P100
+1. Importare il file "ponte kaggle-server.ipynb" su kaggle e selezionare come accelleratore GPU P100
 2. Nel file server.py inserire il proprio authtoken di ngrok
 3. Negli input del server inserire 3 dataset:
    + "server", con al suo interno il file server.py
