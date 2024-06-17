@@ -44,5 +44,6 @@ Per renderepiù veloce ed efficace la generazione di un modello, cerca si selezi
 Una volta generato un modello 3D, l'utente potrà:
 + Spostarlo e ruotarlo tramite grab.
 + Scalarlo tramite grab con due mani.
++ Duplicarlo premento il tasto <b> X </b> sul controller sinistro mentre il modello è in stato di grab.
 + Eliminarlo premento il tasto <b> Y </b> sul controller sinistro mentre il modello è in stato di grab.
 
