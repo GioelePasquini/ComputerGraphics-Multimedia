@@ -1,3 +1,8 @@
+# Link per scaricare il progetto
+
+https://univpm-my.sharepoint.com/:u:/g/personal/s1113511_studenti_univpm_it/EaMUnyxAp5pDlNp5J9bTRjsB-LMY5vrpGCtrlS-9rqP-JQ?e=LzNiHR
+
+
 # Configurazione del server per l'applicazione
 1. Importare il file "ponte kaggle-server.ipynb" su kaggle e selezionare come accelleratore GPU P100
 2. Nel file server.py inserire il proprio authtoken di ngrok
