@@ -1,4 +1,4 @@
-# Link per scaricare la video demo
+# Link per scaricare la video demo di funzionamento
 
 https://univpm-my.sharepoint.com/:v:/g/personal/s1113511_studenti_univpm_it/EXDxyr-QdyxFstMgzRZ9GC4BnM_B1bjFWHnzo8G_tg8ozw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=NmiuDZ
 
